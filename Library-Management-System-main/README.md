@@ -9,7 +9,7 @@ The repository contains web pages using Django web development framework in pyth
 
 Open terminal using Ctrl + Alt + T. Run the following command <br>
 ```
-   git clone https://github.com/vcode4u95/LMS.git
+ https://github.com/vcode4u95/LMS.git
 ```
 
 Create and activate virtual environment using <br>
